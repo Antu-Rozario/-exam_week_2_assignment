@@ -75,7 +75,7 @@ class MyApp extends StatelessWidget {
               ),
               const SizedBox(height: 10),
               const Text(
-                'If you submit the code directly copy from chatgpt then mark will 0',
+                '!',
                 style: TextStyle(fontSize: 18),
               ),
               const SizedBox(height: 20),
